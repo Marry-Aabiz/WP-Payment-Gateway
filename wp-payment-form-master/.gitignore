@@ -1,0 +1,9 @@
+vendor
+node_modules
+assets
+includes/Pro/
+wp-payment-form-pro/
+svn
+svn.php
+pro_build.php
+*.zip
